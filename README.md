@@ -4,4 +4,4 @@ We investigate sampling techniques in unbalanced heterogeneous bipartite graphs 
 
 * ``22nd ACM CIKM 2013`` Yusheng Xie, Zhengzhang Chen, Lu Liu, Ankit Agrawal, and Alok Choudhary. *Sampling From Unbalanced Heterogeneous Bipartite Social Graph*
 
-![alt tag](https://raw.github.com/yvesx/Silverback/master/imgs/1.png)
+![alt tag](https://raw.github.com/yvesx/UHBGsampling/master/imgs/1.png)
